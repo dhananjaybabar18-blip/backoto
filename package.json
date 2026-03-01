@@ -1,0 +1,15 @@
+{
+  "name": "oto-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "OTO Order Today Online - WhatsApp Bot Server",
+  "main": "oto_bot_server.js",
+  "scripts": {
+    "start": "node oto_bot_server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
