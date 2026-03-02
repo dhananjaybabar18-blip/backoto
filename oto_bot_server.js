@@ -10,7 +10,7 @@ app.use(express.json());
 // ─── YOUR CREDENTIALS (fill these) ───────────────────
 const CONFIG = {
   VERIFY_TOKEN:    'oto2024secret',           // you choose any string
-  ACCESS_TOKEN:    'EAF6UOrwCtnwBQ8YaGBq2sZBAzNtesJaa1A5Ry5UKHq2GN140qzHVUubZB9dEx2BGKfUDoEW8BbvTYaygxIL2xuSHSqKhbhB7j97YTQ47s1pP1JIUOJQ1bRgGFNIHrvTCQHQ42d2WmJErCQUKuRF2NMX1PB56hyZA9F7x501ZAiZAdOm51lTqCZBDAZBaE6yBStEZCg1WQW6ZAyaGZAL6dMOCxE5p12BbTz2O2aC7TAhcrSTHFbJMZCDuCe0WrhWIUmoeSxZCxk6yuAEj5JCmk3xWaOlNIR7zyQZDZD', // from Meta dashboard
+  ACCESS_TOKEN:    'EAF6UOrwCtnwBQ7ead17mp4PHl66AIPsJFlqqUc9PmIbzzp0YlXitMsU4Njau8xeGhv7UgasLY1FQ3IbriGgaVZCoRZCOtY8gvtvVscVn0fAtjXOBYDuAIGS1B0hIBRxZCgZCpRpISNCkUVMkGKBhJQudxeByyvd1wllmERn8Mc7FtrLhpgPOQAsJu2ZAp6dyEwvSCrTnN4ybIx1UkhV8vy22VVZA9s9tVzQJiMoHvqTak7PUjCPN8RZCexCZA5nDspcgJUiZCNxLRtPwMeTTvnTvMH0TSLQZDZD', // from Meta dashboard
   PHONE_NUMBER_ID: '1054668754393045',          // already on your screen!
   WEBVIEW_URL:     'https://peppy-narwhal-b70af2.netlify.app/', // after Netlify upload
 };
