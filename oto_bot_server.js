@@ -11,7 +11,7 @@ app.use(express.json());
 const CONFIG = {
   VERIFY_TOKEN:    'oto2024secret',           // you choose any string
   ACCESS_TOKEN:    'EAF6UOrwCtnwBQ8YaGBq2sZBAzNtesJaa1A5Ry5UKHq2GN140qzHVUubZB9dEx2BGKfUDoEW8BbvTYaygxIL2xuSHSqKhbhB7j97YTQ47s1pP1JIUOJQ1bRgGFNIHrvTCQHQ42d2WmJErCQUKuRF2NMX1PB56hyZA9F7x501ZAiZAdOm51lTqCZBDAZBaE6yBStEZCg1WQW6ZAyaGZAL6dMOCxE5p12BbTz2O2aC7TAhcrSTHFbJMZCDuCe0WrhWIUmoeSxZCxk6yuAEj5JCmk3xWaOlNIR7zyQZDZD', // from Meta dashboard
-  PHONE_NUMBER_ID: '1021585594375686',          // already on your screen!
+  PHONE_NUMBER_ID: '1054668754393045',          // already on your screen!
   WEBVIEW_URL:     'https://peppy-narwhal-b70af2.netlify.app/', // after Netlify upload
 };
 // ─────────────────────────────────────────────────────
